@@ -1,0 +1,79 @@
+{
+    "azt-settings": {
+        "gmap_api_key": "AIzaSyBxfncg-b5W3Sd9VdRCvtmS3VeQcDAb05g"
+    },
+    "azt-item-fields": [{
+            "id": "store_id",
+            "name": "store_id",
+            "type": "text",
+            "visible": "0"
+        }, {
+            "id": "title",
+            "name": "Title",
+            "type": "text",
+            "visible": "1"
+        }, {
+            "id": "street",
+            "name": "Street",
+            "type": "text",
+            "visible": "1"
+        }, {
+            "id": "city",
+            "name": "City",
+            "visible": "1",
+            "type": "text"
+        }, {
+            "id": "email",
+            "name": "Email",
+            "visible": "1",
+            "type": "text"
+        }, {
+            "id": "website",
+            "name": "Website",
+            "visible": "1",
+            "type": "text"
+        }, {
+            "id": "phone",
+            "name": "Phone",
+            "visible": "1",
+            "type": "text"
+        }, {
+            "visible": "0",
+            "type": "timezone",
+            "id": "timezone",
+            "name": "Timezone",
+            "group": "Working hours"
+        }, {
+            "visible": "0",
+            "type": "working_hours",
+            "id": "working_hours",
+            "name": "Working hours",
+            "group": "Working hours"
+        }, {
+            "visible": "0",
+            "type": "location",
+            "id": "location",
+            "name": "Location",
+            "group": "Location"
+        }, {
+            "id": "lat",
+            "name": "lat",
+            "visible": "0",
+            "type": "text",
+            "auxiliary": "1",
+            "group": "Location"
+        }, {
+            "id": "lng",
+            "name": "lng",
+            "visible": "0",
+            "type": "text",
+            "auxiliary": "1",
+            "group": "Location"
+        }, {
+            "id": "description",
+            "name": "description",
+            "visible": "0",
+            "type": "bigtext",
+            "group": "Description"
+        }]
+}
